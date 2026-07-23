@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "app/portofolio"  ],
+, "app/portofolio_aqif"  ],
   "exclude": ["node_modules"]
 }
